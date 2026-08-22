@@ -1724,7 +1724,6 @@ function View() {
               title="输入内容"
               value={input}
               onChanged={setInput}
-              prompt="每行一个，扫描表格后自动换行"
               axis="vertical"
               modifiers={inputTextModifiers}
             />
