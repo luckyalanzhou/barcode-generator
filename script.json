@@ -1,0 +1,45 @@
+{
+  "icon" : "doc.text.magnifyingglass",
+  "intentInputTypes" : [
+
+  ],
+  "name" : "条码生成",
+  "runInApp" : false,
+  "author" : {
+    "email" : "luckyalanzhou@users.noreply.github.com",
+    "name" : "Alan",
+    "homepage" : "https:\/\/github.com\/luckyalanzhou"
+  },
+  "description" : "",
+  "version" : "1.0.0",
+  "localizedDescriptions" : {
+    "fr" : "",
+    "zh" : "",
+    "es" : "",
+    "ja" : "",
+    "de" : "",
+    "ru" : "",
+    "en" : "",
+    "it" : "",
+    "pt" : ""
+  },
+  "entry" : "index.tsx",
+  "contributors" : [
+
+  ],
+  "remoteResource" : null,
+  "color" : "rgba(71, 102, 194,1)",
+  "iconImage" : "",
+  "permissions" : null,
+  "localizedNames" : {
+    "it" : "",
+    "ru" : "",
+    "fr" : "",
+    "pt" : "",
+    "ja" : "",
+    "en" : "",
+    "de" : "",
+    "zh" : "",
+    "es" : ""
+  }
+}
