@@ -520,9 +520,9 @@ function SettingsPage({
           <Spacer />
           <Text
             font={14}
-            modifiers={modifiers().foregroundStyle("#8e8e93")}
+            modifiers={modifiers().foregroundStyle(sub(colorScheme))}
           >
-            Design by Alan
+            Alan
           </Text>
         </HStack>
       </VStack>
